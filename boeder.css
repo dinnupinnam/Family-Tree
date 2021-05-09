@@ -1,0 +1,17 @@
+.JPG{
+	font-size: 50px;
+	color: red;
+	font-weight:900;
+	font-family:Brush Script MT;
+}
+
+.image{
+	border-radius: 50%
+}
+
+.container{
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+	text-align: center;
+}
